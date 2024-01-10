@@ -1,6 +1,4 @@
-# Welcome to Remix!
-
-- [Remix Docs](https://remix.run/docs)
+# Remix on Hono on Cloudflare Pages
 
 ## Development
 
